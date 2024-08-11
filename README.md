@@ -1,6 +1,6 @@
-# simple-convnext
+# convnext
 
-Simple implementation of the [ConvNext](https://arxiv.org/abs/2201.03545) architecture in PyTorch.
+implementation of the [ConvNext](https://arxiv.org/abs/2201.03545) architecture in PyTorch.
 
 <p align="center" width="100%">
     <img width="50%" src="https://user-images.githubusercontent.com/29043871/197199637-9cd8b61b-632a-4cad-9361-b2db0af8c574.png"> 
