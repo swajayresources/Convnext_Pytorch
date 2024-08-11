@@ -98,6 +98,4 @@ Training was done for `100` epochs with a batch size of `128` on GTX 1070Ti and 
 weighted avg       0.65      0.64      0.64     10000
 ```
 
-### Future steps
 
-Hoping to get some better hardware to train on ImageNet-1k and fine tune the model for object detection. 🙏😅
